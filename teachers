@@ -1,0 +1,33 @@
+[
+    {
+        "name": "ragha kapoor",        
+        "subjects": "electrical, english",       
+        "email": "roalts@gmail.com",      
+    },
+    {
+        "name": "puja mathur",        
+        "subjects": "maths, physics",       
+        "email": "puja@gmail.com",      
+    },
+    {
+        "name": "lavanya",        
+        "subjects": "mechanical, biochem",       
+        "email": "lavanya@gmail.com",      
+    },
+    {
+        "name": "vibhor",        
+        "subjects": "computers, coding",       
+        "email": "vibhor@gmail.com",      
+    },
+    {
+        "name": "pragati kumar",        
+        "subjects": "sex ed, philosophy",       
+        "email": "pragati@gmail.com",      
+    },
+    {
+        "name": "datawinds in the ",        
+        "subjects": "history, ",       
+        "email": "datawind@gmail.com",      
+    },
+
+]
