@@ -1,6 +1,6 @@
 [
     {
-        "name": "aishwarya unnikrishnan",
+        "name": "AISHWARYA UNNIKRISHNAN",
         "dob": "3/4/1995",
         "tag_line": "love studying physics",
         "ins_name": "DTU",
@@ -12,7 +12,7 @@
         "is_teacher": "true"
     },
     {
-        "name": "krutika rastogi",
+        "name": "KRUTIKA RASTOGI",
         "dob": "31/3/1994",
         "tag_line": "coding aokp android",
         "ins_name": "DTU",
@@ -24,7 +24,7 @@
         "is_teacher": "false"
     },
      {
-        "name": "aishwarya unnikrishnan",
+        "name": "SHAILYA GUPTA",
         "dob": "3/4/1995",
         "tag_line": "guitars",
         "ins_name": "DTU",
@@ -36,7 +36,7 @@
         "is_teacher": "true"
     },
     {
-        "name": "krutika rastogi",
+        "name": "PRAJANI PRASAD",
         "dob": "31/3/1994",
         "tag_line": "lovecodingandalgorithms",
         "ins_name": "DTU",
@@ -48,7 +48,7 @@
         "is_teacher": "false"
     },
     {
-        "name": "sopandev tewari",
+        "name": "SOPANDEV TEWARI",
         "dob": "15/8/1994",
         "tag_line": "u rock",
         "ins_name": "IITD",
@@ -60,7 +60,7 @@
         "is_teacher": "true"
     },
     {
-        "name": "ananya chandra",
+        "name": "ANANYA CHANDRA",
         "dob": "17/4/1994",
         "tag_line": "love u ",
         "ins_name": "IITD",
@@ -72,7 +72,7 @@
         "is_teacher": "false"
     },
      {
-        "name": "sopandev tewari",
+        "name": "SOPANDEV TEWARI",
         "dob": "15/8/1994",
         "tag_line": "love php coding",
         "ins_name": "IITD",
@@ -84,7 +84,7 @@
         "is_teacher": "true"
     },
     {
-        "name": "ananya chandra",
+        "name": "ANANYA CHANDRA",
         "dob": "17/4/1994",
         "tag_line": "love python coding",
         "ins_name": "IITD",
@@ -96,7 +96,7 @@
         "is_teacher": "false"
     },
     {
-        "name": "gunshi",
+        "name": "GUNSHI",
         "dob": "29/6/2013",
         "tag_line": "you know it",
         "ins_name": "NSIT",
@@ -109,7 +109,7 @@
  
        },
        {
-        "name": "vimharsh",
+        "name": "VIMHARSH",
         "dob": "29/6/2013",
         "tag_line": "wobbly",
         "ins_name": "NSIT",
@@ -121,7 +121,7 @@
         "is_teacher": "false"
     },
      {
-        "name": "gunshi",
+        "name": "SAUMYA NAGPAL",
         "dob": "29/6/2013",
         "tag_line": "love eating food",
         "ins_name": "NSIT",
@@ -134,14 +134,14 @@
  
        },
        {
-        "name": "vimharsh",
+        "name": "PRATEEK NARANG",
         "dob": "29/6/2013",
         "tag_line": "loveeatingfood and wanna",
         "ins_name": "NSIT",
         "subjects": "everythingwitheverything",
         "address": "28.444533, 77.046550",
         "ins_type": "college",
-        "email": "a.s.rexss2006@gmail.com",
+        "email": "PRATEEK2006@gmail.com",
         "gcm_id": "ssladdu",
         "is_teacher": "false"
     }
