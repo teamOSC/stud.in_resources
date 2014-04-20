@@ -8,7 +8,8 @@
         "address": "28.748802, 77.118539",
         "ins_type": "college",
         "email": "abhinav.b.sinha@gmail.com",
-        "gcm_id": "sheikeb@b"
+        "gcm_id": "sheikeb@b",
+        "is_teacher": "true"
     },
     {
         "name": "krutika rastogi",
@@ -19,7 +20,8 @@
         "address": "28.739621, 77.108239",
         "ins_type": "school",
         "email": "championswimmer@gmail.com",
-        "gcm_id": "championswimmer"
+        "gcm_id": "championswimmer",
+        "is_teacher": "false"
     },
      {
         "name": "aishwarya unnikrishnan",
@@ -30,7 +32,8 @@
         "address": "28.740186, 77.122830",
         "ins_type": "college",
         "email": "abhinav.b.d.fsinha@gmail.com",
-        "gcm_id": "sheikeb@@@@b"
+        "gcm_id": "sheikeb@@@@b",
+        "is_teacher": "true"
     },
     {
         "name": "krutika rastogi",
@@ -41,7 +44,8 @@
         "address": "28.724757, 77.112488",
         "ins_type": "school",
         "email": "championswimmeristhebomb@gmail.com",
-        "gcm_id": "the bomb"
+        "gcm_id": "the bomb",
+        "is_teacher": "false"
     },
     {
         "name": "sopandev tewari",
@@ -52,7 +56,8 @@
         "address": "28.524908, 77.145903",
         "ins_type": "college",
         "email": "omerddk@gmail.com",
-        "gcm_id": "odedrk"
+        "gcm_id": "odedrk",
+        "is_teacher": "true"
     },
     {
         "name": "ananya chandra",
@@ -63,7 +68,8 @@
         "address": "28.439075,     77.040228",
         "ins_type": "school",
         "email": "anaya@gmail.com",
-        "gcm_id": "namak"
+        "gcm_id": "namak",
+        "is_teacher": "false"
     },
      {
         "name": "sopandev tewari",
@@ -74,7 +80,8 @@
         "address": "28.501980, 77.181265",
         "ins_type": "college",
         "email": "omerjerk@gmail.com",
-        "gcm_id": "omerjerk"
+        "gcm_id": "omerjerk",
+        "is_teacher": "true"
     },
     {
         "name": "ananya chandra",
@@ -85,7 +92,8 @@
         "address": "28.402972, 77.272589",
         "ins_type": "school",
         "email": "stomatrix@gmail.com",
-        "gcm_id": "stomatrix"
+        "gcm_id": "stomatrix",
+        "is_teacher": "false"
     },
     {
         "name": "gunshi",
@@ -96,7 +104,8 @@
         "address": "28.391381, 77.048949",
         "ins_type": "college",
         "email": "gunshi@gmail.com",
-        "gcm_id": "dodo"
+        "gcm_id": "dodo",
+        "is_teacher": "true"
  
        },
        {
@@ -108,7 +117,8 @@
         "address": "28.417278, 77.090685",
         "ins_type": "college",
         "email": "vimharsh.sinha@gmail.com",
-        "gcm_id": "ladddddu"
+        "gcm_id": "ladddddu",
+        "is_teacher": "false"
     },
      {
         "name": "gunshi",
@@ -119,7 +129,8 @@
         "address": "28.438862, 77.036487",
         "ins_type": "college",
         "email": "a.s.rex2006564@gmail.com",
-        "gcm_id": "lasse"
+        "gcm_id": "lasse",
+        "is_teacher": "true"
  
        },
        {
@@ -131,7 +142,8 @@
         "address": "28.444533, 77.046550",
         "ins_type": "college",
         "email": "a.s.rexss2006@gmail.com",
-        "gcm_id": "ssladdu"
+        "gcm_id": "ssladdu",
+        "is_teacher": "false"
     }
 
 ]
